@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palle Manikanta Reddy</h1>
 <h3 align="center">A passionate Cyber Security Professional from India</h3>
 
-<iframe src="https://gifer.com/embed/ZG8B" width=480 height=347.520 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://i.gifer.com/ZG8B.gif">
 
 - 🌱 I’m currently learning **Api Security, OWASP Top 10**
 
