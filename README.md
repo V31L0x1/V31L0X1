@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palle Manikanta Reddy</h1>
 <h3 align="center">A passionate Cyber Security Professional from India</h3>
 
-<img src="https://i.gifer.com/ZG8B.gif">
+<img src="https://png.pngtree.com/png-clipart/20200701/original/pngtree-computer-hacker-png-image_5418075.jpg">
 
 - 🌱 I’m currently learning **Api Security, OWASP Top 10**
 
