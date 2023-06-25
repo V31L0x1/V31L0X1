@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Palle Manikanta Reddy</h1>
+<h1 align="left">Hi 👋, I'm Palle Manikanta Reddy</h1>
 <h3 align="center">A passionate Cyber Security Professional from India</h3>
 
 - 🌱 I’m currently learning **Api Security, OWASP Top 10**
 
-- 📫 How to reach me **pmani9505@gmail.com**
+- 📫 Reach me at **pmani9505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
