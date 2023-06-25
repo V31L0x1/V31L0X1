@@ -1,4 +1,4 @@
-<h1 align="center" style="color:000">Hi 👋, I'm Palle Manikanta Reddy</h1>
+<h1 align="center" style="color:#000">Hi 👋, I'm Palle Manikanta Reddy</h1>
 <h2 align="center">A passionate Cyber Security Professional from India</h2>
 
 - 🌱 I’m currently learning **Api Security, OWASP Top 10**
