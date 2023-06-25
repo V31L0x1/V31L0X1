@@ -27,9 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v31l0x1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manikanta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v31_0x1&show_icons=true&locale=en&theme=tokyonight" alt="Manikanta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v31l0x1&show_icons=true&locale=en&theme=tokyonight" alt="Manikanta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v31l_0x1&&theme=tokyonight" alt="Manikanta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v31l0x1&&theme=tokyonight" alt="Manikanta" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/V31L0X1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="V31L_0X1" /></a></p><br><br>
