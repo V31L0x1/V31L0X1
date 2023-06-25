@@ -1,9 +1,15 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manikanta Reddy</h1>
 <h2 align="center">A passionate Cyber Security Professional from India</h2>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Api Security, OWASP Top 10**
 
 - 📫 Reach me at **pmani9505@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+- 💬 Ask me about **Android , MEARN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
