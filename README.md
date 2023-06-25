@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Palle Manikanta Reddy</h1>
-<h3 align="center">A passionate Cyber Security Professional from India</h3>
+<h1 align="center" style="color:yellow">Hi 👋, I'm Palle Manikanta Reddy</h1>
+<h2 align="center">A passionate Cyber Security Professional from India</h2>
 
 - 🌱 I’m currently learning **Api Security, OWASP Top 10**
 
