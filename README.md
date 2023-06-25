@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **SECURITY , NETWORKING**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
