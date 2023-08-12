@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/V31L0x1/V31L0X1/blob/main/Banner.png)](https://manikanta-portfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Manikanta Reddy</h1>
-<h2 align="center">A passionate Cyber Security Professional from India</h2>
+<h2 align="center">A passionate Cyber Security Enthusiast from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v31l0x1&label=Profile%20views&color=0e75b6&style=flat" alt="Manikanta" /> </p>
