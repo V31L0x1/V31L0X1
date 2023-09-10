@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/V31l_0x1" target="blank"><img src="https://img.shields.io/twitter/follow/V31L_0x1?logo=twitter&style=for-the-badge" alt="Manikanta" /></a> </p>
 <h3><a href="https://manikanta-portfolio.vercel.app/">Portfolio</a></h3>
-- 🌱 I’m currently learning **Api Security, OWASP Top 10**
+- 🌱 I’m currently learning **Api Security, Go**
 
 - 📫 Reach me at **pmani9505@gmail.com**
 
