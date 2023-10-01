@@ -27,6 +27,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v31l0x1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manikanta" /></p>
 
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v31l0x1&show_icons=true&locale=en&theme=tokyonight" alt="Manikanta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v31l0x1&&theme=tokyonight" alt="Manikanta" /></p>
