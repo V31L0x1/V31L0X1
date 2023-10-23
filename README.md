@@ -23,10 +23,9 @@
 </p>
 
 ## Tools 
-
-
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
-
+<p align="left">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</p>
 ## Programming Languages
 
 
