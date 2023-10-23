@@ -26,18 +26,14 @@
 <p align="left">
 	<img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1040A14PA2252PT32X45Y15D1048988355W3400H3400CxF36916%3AxFFFFFF/views/1,width=650,height=650,appearanceId=14,backgroundColor=ffffff/burp-suite-icon.jpg" alt="android" width="50" height="50"/>
 	<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" height="50"/>
-	<img src="https://miro.medium.com/v2/resize:fit:1400/1*avSrkx78FxkvQ_EydrSFLA.png" alt="nessus" width="50" height="50"/>
 	<img src="https://kasunkodagoda.gallerycdn.vsassets.io/extensions/kasunkodagoda/owasp-zap-scan/2.0.10/1567001746825/Microsoft.VisualStudio.Services.Icons.Default" alt="zap" width="50" height="50"/>
 	<img src="https://cdn-icons-png.flaticon.com/512/477/477116.png" alt="hydra" width="50" height="50"/>
-	<img src="https://curl.se/logo/curl-transparent.png" alt="curl" width="50" height="50"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="wireshark" width="50" height="50"/>
 	<img src="https://github.com/V31L0x1/V31L0X1/assets/63537300/21c03dfd-00a4-45b5-a226-f0d87faa7f65" alt="john-the-ripper" width="50" height="50"/>
 	<img src="https://pbs.twimg.com/profile_images/1425873977327726596/XR0uNrj3_400x400.jpg" alt="hashcat" width="50" height="50"/>
 	<img src="https://play-lh.googleusercontent.com/PjfzpTbZMKywkKDtX1dLkzZroAZCLTwGrwIL3acVg_-DGeP4dYkKt_Z6R8bpaOReLQ" alt="metasploit" width="50" height="50"/>
 	<img src="https://github.com/V31L0x1/V31L0X1/assets/63537300/6e64818d-47f3-4151-91c5-81416ae1e0f6" alt="beef" width="50" height="50"/>
 	<img src="https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg" alt="air-crack" width="50" height="50"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="sql-map" width="50" height="50"/>
-	<img src="https://w7.pngwing.com/pngs/729/271/png-transparent-splunk-app-logo-tech-companies-thumbnail.png" alt="splunk" width="50" height="50"/>
 </p>
 
 ## Programming Languages and Technologies
