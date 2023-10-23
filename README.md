@@ -32,6 +32,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
+## Projects
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v31l0x1&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v31l0x1&show_icons=true&locale=en&theme=tokyonight"/></p>
