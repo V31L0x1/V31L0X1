@@ -27,7 +27,9 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 ## Programming Languages
-
+<p align="left">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v31l0x1&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
