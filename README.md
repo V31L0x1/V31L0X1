@@ -29,7 +29,7 @@
 
 ## Programming Languages and Technologies
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=py,docker,c,vim,aws,azure,kubernetes,css,js,html" alt="languages" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=py,docker,c,vim,aws,azure,kubernetes,css,js,html" alt="languages"/>
 </p>
 
 ## Projects
