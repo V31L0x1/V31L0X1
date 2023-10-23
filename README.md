@@ -27,9 +27,9 @@
 	<img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1040A14PA2252PT32X45Y15D1048988355W3400H3400CxF36916%3AxFFFFFF/views/1,width=650,height=650,appearanceId=14,backgroundColor=ffffff/burp-suite-icon.jpg" alt="android" width="40" height="40"/>
 </p>
 
-## Programming Languages
+## Programming Languages and Technologies
 <p align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=py,docker,c,vim,aws,azure,kubernetes,css,js,html" alt="languages" width="40" height="40"/>
 </p>
 
 ## Projects
