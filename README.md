@@ -34,8 +34,8 @@
 
 ## Operating Systems 
 <p align="left">
-	<img src="https://freepngimg.com/save/68988-kali-android-linux-free-clipart-hq/512x512" alt="kali-linux" width="40" height="40"/>
-	<img src="https://cdn-icons-png.flaticon.com/512/906/906308.png" alt="windows" width="40" height="40"/>
+	<img src="https://freepngimg.com/save/68988-kali-android-linux-free-clipart-hq/512x512" alt="kali-linux" width="50" height="50"/>
+	<img src="https://cdn-icons-png.flaticon.com/512/906/906308.png" alt="windows" width="50" height="50"/>
  	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" alt="ubuntu" width="40" height="40"/>
   	<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="arch-linux" width="40" height="40"/>
    	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/centos_logo_icon_167761.png" alt="cent-os" width="40" height="40"/>
