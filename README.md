@@ -65,8 +65,8 @@
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v31l0x1&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v31l0x1&show_icons=true&locale=en&theme=tokyonight" alt="Manikanta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=v31l0x1&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v31l0x1&show_icons=true&locale=en&theme=tokyonight"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v31l0x1&&theme=tokyonight" alt="Manikanta" /></p>
 
