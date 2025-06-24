@@ -1,4 +1,4 @@
-- Hi, I'm Manikanta aka @v31l0x1
+- Hi, I'm @v31l0x1
 - I am interested in Offensive Security, Malware Development
 - 📫 Reach me at **pmani9505@gmail.com**
 
